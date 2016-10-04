@@ -1,0 +1,14 @@
+.formulaire{
+  margin: 0 5%;
+  padding: 5% 2%;
+  background-color: #DDDDDD;
+  border: solid black 1px;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  margin-top: 15px;
+}
